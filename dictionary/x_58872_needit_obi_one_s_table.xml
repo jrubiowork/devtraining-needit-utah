@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="384e7a38939d2610c2d170d19dba10a0" label="Obi One's Table" max_length="40" name="x_58872_needit_obi_one_s_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
+    </element>
+</database>

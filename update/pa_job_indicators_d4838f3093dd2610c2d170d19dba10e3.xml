@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting Problems created this month on friday - Problems created this month on friday</display>
+        <indicator display_value="Problems created this month on friday">4483473093dd2610c2d170d19dba1076</indicator>
+        <job display_value="temporary job for collecting Problems created this month on friday">50838f3093dd2610c2d170d19dba10e1</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-01 22:18:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4838f3093dd2610c2d170d19dba10e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problems created this month on friday.temporary job for collecting Problems created this month on friday</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_d4838f3093dd2610c2d170d19dba10e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-01 22:18:06</sys_updated_on>
+    </pa_job_indicators>
+</record_update>
